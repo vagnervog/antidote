@@ -1,0 +1,7 @@
+litellm>=1.40.0
+python-telegram-bot>=21.0
+cryptography>=42.0
+aiosqlite>=0.20.0
+python-dotenv>=1.0
+rich>=13.0
+questionary>=2.0
